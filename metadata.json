@@ -1,0 +1,6 @@
+{
+  "name": "تایمر و کرونومتر هوشمند سه‌بعدی | 3D Smart Idle Timer",
+  "description": "تایمر و کرونومتر سه‌بعدی بسیار کم‌مصرف با قابلیت تشخیص خودکار عدم فعالیت کاربر (توقف در صورت بی‌حرکتی بیش از ۳۰ ثانیه و ادامه با حرکت موس)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
